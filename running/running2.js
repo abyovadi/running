@@ -32,7 +32,7 @@ function preload() {
   mySound = loadSound('beating.wav');
  stick_loadimg = loadImage ("pinkstick.gif");
  stick_createimg = createImg("pinkstick.gif");
-   // bmsr = loadSound('bmsr.mp3');
+  bmsr = loadSound('bmsr.mp3');
     heartbeat = loadSound('happyheart.wav');
     
 }
